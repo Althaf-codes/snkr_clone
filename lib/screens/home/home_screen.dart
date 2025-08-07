@@ -119,13 +119,14 @@ class _HomeScreenState extends State<HomeScreen> {
                         height: MediaQuery.of(context).size.height * 0.6,
                         width: MediaQuery.of(context).size.width * 0.95,
                         imgUrl:
-                            "https://www.sneakerbaas.nl/cdn/shop/collections/newbalancebanner_320x320_crop_center.jpg?v=1712409908",
+                            "https://t4.ftcdn.net/jpg/04/76/03/31/360_F_476033198_JiBH4Ezycl7lSdDsrhVGXBFSS7i9fgSa.jpg",
+                        // "https://www.sneakerbaas.nl/cdn/shop/collections/newbalancebanner_320x320_crop_center.jpg?v=1712409908",
                         ontap: () {}),
                     AppConstants.height20,
                     ProductGroupSection(title: "NIKE", products: nikeShoes),
                     AppConstants.height20,
-                    const ProductGroupSection(
-                        title: "ACCESSORIES", products: []),
+                    ProductGroupSection(
+                        title: "ACCESSORIES", products: nikeShoes),
                     AppConstants.height10,
                   ],
                 ),
