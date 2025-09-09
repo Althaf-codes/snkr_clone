@@ -114,9 +114,12 @@ class _MainScreenState extends State<MainScreen> {
             child: Column(
               children: [
                 Expanded(
-                    child: customContainer(context, child: widget.child
-                        //  _screens[_currentIndex]
-                        )),
+                    child: customContainer(
+                  context,
+                  child: widget.child,
+
+                  //  _screens[_currentIndex]
+                )),
                 IgnorePointer(
                   ignoring: isDrawerOpen,
                   child: Container(

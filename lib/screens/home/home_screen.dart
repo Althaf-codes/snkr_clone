@@ -17,7 +17,8 @@ class HomeScreen extends StatefulWidget {
   State<HomeScreen> createState() => _HomeScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _HomeScreenState extends State<HomeScreen>
+    with AutomaticKeepAliveClientMixin {
   late ScrollController _scrollController;
   List<Product> saleProducts = [];
   List<Product> asicsProducts = [];
@@ -137,4 +138,7 @@ class _HomeScreenState extends State<HomeScreen> {
       }),
     );
   }
+
+  @override
+  bool get wantKeepAlive => true;
 }

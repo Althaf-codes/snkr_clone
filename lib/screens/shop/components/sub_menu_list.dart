@@ -38,14 +38,17 @@ Widget subMenuList(BuildContext context,
                                 departmentName: menuTitle,
                               )));
                 },
-                child: Text(
-                  "View All >>",
-                  style: AppConstants.h1Bold.copyWith(
-                      decoration: TextDecoration.underline,
-                      fontSize: 13,
-                      letterSpacing: 0.5,
-                      wordSpacing: 0.3,
-                      height: 0.3),
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Text(
+                    "View All >>",
+                    style: AppConstants.h1Bold.copyWith(
+                        decoration: TextDecoration.underline,
+                        fontSize: 13,
+                        letterSpacing: 0.5,
+                        wordSpacing: 0.3,
+                        height: 0.3),
+                  ),
                 ),
               ),
             ],

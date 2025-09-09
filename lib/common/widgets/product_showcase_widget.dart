@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:snkr_app/common/widgets/custom_cached_image.dart';
 import 'package:snkr_app/model/product_model.dart';
 import 'package:snkr_app/provider/cart_provider.dart';
 import 'package:snkr_app/provider/favorite_provider.dart';
@@ -32,19 +33,31 @@ class ProductShowcaseWidget extends StatelessWidget {
             child: Stack(
               clipBehavior: Clip.none,
               children: [
-                Container(
-                  decoration: const BoxDecoration(
-                      color: AppConstants.whiteColor,
-                      borderRadius: BorderRadius.only(
-                        // topLeft: Radius.circular(12),
-                        topRight: Radius.circular(12),
-                      ),
-                      image: DecorationImage(
-                          scale: 0.5,
-                          image: NetworkImage(
-                              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS860RVbXV4WSXukekwqA8etvpjMi64wPJLitHAOiNB6e0nFtacvStbdsbXPqVjekMXGp4&usqp=CAU"),
-                          fit: BoxFit.cover)),
+                SizedBox(
+                  height: 180,
+                  child: CustomCachedNetworkImage(
+                    imageUrl: product.image[0],
+                    borderRadius: const BorderRadius.only(
+                      topLeft: Radius.circular(12),
+                      topRight: Radius.circular(12),
+                    ),
+                  ),
                 ),
+                // Container(
+                //   decoration: BoxDecoration(
+                //       color: AppConstants.whiteColor,
+                //       borderRadius: const BorderRadius.only(
+                //         // topLeft: Radius.circular(12),
+                //         topRight: Radius.circular(12),
+                //       ),
+                //       image: DecorationImage(
+                //           scale: 0.5,
+                //           image: NetworkImage(
+                //             product.image[0],
+                //             // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS860RVbXV4WSXukekwqA8etvpjMi64wPJLitHAOiNB6e0nFtacvStbdsbXPqVjekMXGp4&usqp=CAU",
+                //           ),
+                //           fit: BoxFit.cover)),
+                // ),
                 hasBadge
                     ? Positioned(
                         top: 0,
@@ -52,13 +65,13 @@ class ProductShowcaseWidget extends StatelessWidget {
                         child: Container(
                             height: 22,
                             // width: 40,
-                            padding: EdgeInsets.all(5),
-                            decoration: BoxDecoration(
+                            padding: const EdgeInsets.all(5),
+                            decoration: const BoxDecoration(
                                 color:
                                     // product.isNew?
                                     AppConstants.blackColor,
                                 // : Colors.red,
-                                borderRadius: const BorderRadius.only(
+                                borderRadius: BorderRadius.only(
                                     bottomRight: Radius.circular(12))),
                             child: product.onSale
                                 ? Center(

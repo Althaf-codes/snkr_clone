@@ -63,10 +63,10 @@ class _CalenderScreenState extends State<CalenderScreen>
                           .copyWith(fontSize: 17, letterSpacing: 0.5),
                       labelColor: AppConstants.grayColor,
                       tabs: [
-                        Tab(
+                        const Tab(
                           text: "Raffles",
                         ),
-                        Tab(
+                        const Tab(
                           text: "Coming Soon",
                         )
                       ]),

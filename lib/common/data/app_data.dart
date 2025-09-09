@@ -139,8 +139,9 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/ultraboost_22_1.jpg',
-        'https://example.com/images/ultraboost_22_2.jpg'
+        "https://www.shutterstock.com/image-photo/kent-uk-01012023-adidas-originals-600nw-2278627365.jpg",
+        "https://publish.purewow.net/wp-content/uploads/sites/2/2024/06/best-adidas-sneakers-adidas-Originals-Superstar-W.jpg?fit=680%2C400",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjN6tCWIwBWANbbeOZ8TQP_oTtFFY7ClhsPVjAJpBCJqe03dGVSZYdweGhm2OQV3zkuM&usqp=CAU"
       ],
       color: 'Black/White',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -187,8 +188,9 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/gel_nimbus_25_1.jpg',
-        'https://example.com/images/gel_nimbus_25_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPopL5feYkz7zlr-1rO3O-Gi4ugDyskKeGw&s",
+        "https://m.media-amazon.com/images/I/81M7O1DO-kL._UY1000_.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nIQBvQvIKAs_nwgLDaf2QzRUGciJXu5bxm9XbB8gzRSNw-vJ59dpxgHfpK5wc1s8ynM&usqp=CAU",
       ],
       color: 'Blue/Gray',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -235,8 +237,9 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/air_force_1_1.jpg',
-        'https://example.com/images/air_force_1_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxuvsvosQhXacY0lyzaCSO4ihoHdiF8u4fIm0Ii4rADjXemlwCf27IdvJAOht9yBxMJQ&usqp=CAU"
+            "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F03%2Fnike-air-force-1-react-d-ms-x-CT1020-101-release-information-02.jpg?q=75&w=800&cbr=1&fit=max",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aQILfuWltidH2ujUUjjK5qkd6s7cpgJzInmAsj-4Rqlkdp3lDrajkdJtBoCFivxmFdA&usqp=CAU"
       ],
       color: 'White',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -283,8 +286,9 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/rs_x3_1.jpg',
-        'https://example.com/images/rs_x3_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EYzfLpLky7TlP7bjWB5u7GfiMZeyX1nqzg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopi25f79Pde27V-azTPhTUH2K0TW7VTO8gg&s",
+        // "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/312078/03/sv01/fnd/IND/fmt/png/Flex-Focus-Lite-Modern-Running-Shoes",
       ],
       color: 'Black/Red',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -331,8 +335,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/nb_574_core_1.jpg',
-        'https://example.com/images/nb_574_core_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyhbPYcmgECCnu2xuH3P1N5lp2FnyNh1WxQ6SKS6_IOPBBRr9d4dO8AEJfoNDMj3tsJ4&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnLMoJboraVa2qU-g9146cQcow5jjx2UeVwdeAB_pa04mczbSjmiymZQmCyhmIJnZ8Jk&usqp=CAU"
       ],
       color: 'Gray/White',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -379,8 +383,8 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/nano_x3_1.jpg',
-        'https://example.com/images/nano_x3_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZp_LEIQLll5QXsX6JI_lKY3KWEy9g0ZpKg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimhYHHW73G0w34vB8Bt8ECfDb8k3cdyGPVw&s"
       ],
       color: 'White/Black',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -427,8 +431,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/hovr_phantom_3_1.jpg',
-        'https://example.com/images/hovr_phantom_3_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXDCZC7MX7mkBAPalsBvByB3UhuTgB1CgfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_eWw3aGNCEty45SjxmjjRX0U7xKY4UfFbQ&s",
       ],
       color: 'Blue/Orange',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -475,8 +479,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/chuck_taylor_hi_1.jpg',
-        'https://example.com/images/chuck_taylor_hi_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckjJe-YO4jtOwxqShdyHgihVnJUVONszrtg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRq1Ridtd2oy7zxekPNXv-5prFyHBamjMAxw&s"
       ],
       color: 'Black/White',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -523,8 +527,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/old_skool_1.jpg',
-        'https://example.com/images/old_skool_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJleKfUY65IdJADOsqE1OWaCHq24DuReoFjQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfQI1gb9YhMNKU2lQtne7DRVhzP79hqaAgQ&s"
       ],
       color: 'Black/White',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -571,8 +575,8 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/speedcross_5_1.jpg',
-        'https://example.com/images/speedcross_5_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfU2yyPvmcPfB6raVi4NDi2sl4VzqKwphxA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEaHj__iTXoas4WYdCbYvF70koAe2ltmSWg&s",
       ],
       color: 'Red/Black',
       discountTagline: 'Extra 11% OFF CHECKOUT',
@@ -623,7 +627,11 @@ class AppData {
       isFeatured: true,
       isBestSeller: true,
       onSale: true,
-      image: ['image1.jpg', 'image2.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPopL5feYkz7zlr-1rO3O-Gi4ugDyskKeGw&s",
+        "https://m.media-amazon.com/images/I/81M7O1DO-kL._UY1000_.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nIQBvQvIKAs_nwgLDaf2QzRUGciJXu5bxm9XbB8gzRSNw-vJ59dpxgHfpK5wc1s8ynM&usqp=CAU",
+      ],
       color: 'Black/White',
       releaseDate: '2024-01-01',
       isReleased: 'Yes',
@@ -683,7 +691,10 @@ class AppData {
       isFeatured: false,
       isBestSeller: true,
       onSale: false,
-      image: ['image3.jpg', 'image4.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXDCZC7MX7mkBAPalsBvByB3UhuTgB1CgfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_eWw3aGNCEty45SjxmjjRX0U7xKY4UfFbQ&s",
+      ],
       color: 'Blue/Yellow',
       releaseDate: '2023-11-15',
       isReleased: 'Yes',
@@ -740,7 +751,10 @@ class AppData {
       isFeatured: true,
       isBestSeller: false,
       onSale: false,
-      image: ['image5.jpg', 'image6.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfU2yyPvmcPfB6raVi4NDi2sl4VzqKwphxA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEaHj__iTXoas4WYdCbYvF70koAe2ltmSWg&s",
+      ],
       color: 'Red/Black',
       releaseDate: '2024-02-01',
       isReleased: 'Yes',
@@ -791,7 +805,10 @@ class AppData {
       isFeatured: false,
       isBestSeller: false,
       onSale: true,
-      image: ['image7.jpg', 'image8.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJleKfUY65IdJADOsqE1OWaCHq24DuReoFjQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfQI1gb9YhMNKU2lQtne7DRVhzP79hqaAgQ&s"
+      ],
       color: 'Black',
       releaseDate: '2023-10-01',
       isReleased: 'Yes',
@@ -835,8 +852,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/gel_nimbus_25_1.jpg',
-        'https://example.com/images/gel_nimbus_25_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyhbPYcmgECCnu2xuH3P1N5lp2FnyNh1WxQ6SKS6_IOPBBRr9d4dO8AEJfoNDMj3tsJ4&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnLMoJboraVa2qU-g9146cQcow5jjx2UeVwdeAB_pa04mczbSjmiymZQmCyhmIJnZ8Jk&usqp=CAU"
       ],
       color: 'Blue/White',
       discountTagline: '10% Off for a Limited Time!',
@@ -890,8 +907,9 @@ class AppData {
       isBestSeller: false,
       onSale: false,
       image: [
-        'https://example.com/images/metarun_jacket_1.jpg',
-        'https://example.com/images/metarun_jacket_2.jpg'
+        "https://www.shutterstock.com/image-photo/kent-uk-01012023-adidas-originals-600nw-2278627365.jpg",
+        "https://publish.purewow.net/wp-content/uploads/sites/2/2024/06/best-adidas-sneakers-adidas-Originals-Superstar-W.jpg?fit=680%2C400",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjN6tCWIwBWANbbeOZ8TQP_oTtFFY7ClhsPVjAJpBCJqe03dGVSZYdweGhm2OQV3zkuM&usqp=CAU"
       ],
       color: 'Black',
       discountTagline: '',
@@ -940,8 +958,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/running_socks_1.jpg',
-        'https://example.com/images/running_socks_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyhbPYcmgECCnu2xuH3P1N5lp2FnyNh1WxQ6SKS6_IOPBBRr9d4dO8AEJfoNDMj3tsJ4&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnLMoJboraVa2qU-g9146cQcow5jjx2UeVwdeAB_pa04mczbSjmiymZQmCyhmIJnZ8Jk&usqp=CAU"
       ],
       color: 'White/Gray',
       discountTagline: '20% Off!',
@@ -982,8 +1000,9 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/gt_2000_12_1.jpg',
-        'https://example.com/images/gt_2000_12_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxuvsvosQhXacY0lyzaCSO4ihoHdiF8u4fIm0Ii4rADjXemlwCf27IdvJAOht9yBxMJQ&usqp=CAU"
+            "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F03%2Fnike-air-force-1-react-d-ms-x-CT1020-101-release-information-02.jpg?q=75&w=800&cbr=1&fit=max",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aQILfuWltidH2ujUUjjK5qkd6s7cpgJzInmAsj-4Rqlkdp3lDrajkdJtBoCFivxmFdA&usqp=CAU"
       ],
       color: 'Gray/Black',
       discountTagline: '15% Off for Running Enthusiasts!',
@@ -1037,8 +1056,8 @@ class AppData {
       isBestSeller: true,
       onSale: false,
       image: [
-        'https://example.com/images/novablast_3_1.jpg',
-        'https://example.com/images/novablast_3_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXDCZC7MX7mkBAPalsBvByB3UhuTgB1CgfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_eWw3aGNCEty45SjxmjjRX0U7xKY4UfFbQ&s",
       ],
       color: 'Orange/Black',
       discountTagline: '',
@@ -1092,8 +1111,8 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/fujitrail_backpack_1.jpg',
-        'https://example.com/images/fujitrail_backpack_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvlioO3Hh5AjxV7vRCm9L7FW_hg5nDGQEBQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBpDpqwsGNCHtkccyUc1j04EUpDqTOtPYAQ&s"
       ],
       color: 'Black/Yellow',
       discountTagline: 'Gear Up with 10% Off!',
@@ -1135,8 +1154,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/court_speed_ff2_1.jpg',
-        'https://example.com/images/court_speed_ff2_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsPXajkUHG1ybgw3E-NgS8UCpjuQI7K_bg6UDbq7xb_qDRY76E35GNS7QgXiQ1lA_aq8&usqp=CAU",
+        "https://i5.walmartimages.com/seo/Women-s-Ombre-Color-Knit-Lightweight-Soft-soled-Sneakers-Breathable-Mesh-Lace-Up-Jogging-Shoes-Women-s-Footwear_43a7bd78-9d0b-4b62-a852-7e6f03a1921d.bec61d3a61d782f40452c83c9af80396.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
       ],
       color: 'White/Blue',
       discountTagline: 'Smash the Court with 20% Off!',
@@ -1190,8 +1209,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/pegasus_40_1.jpg',
-        'https://example.com/images/pegasus_40_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsPXajkUHG1ybgw3E-NgS8UCpjuQI7K_bg6UDbq7xb_qDRY76E35GNS7QgXiQ1lA_aq8&usqp=CAU",
+        "https://i5.walmartimages.com/seo/Women-s-Ombre-Color-Knit-Lightweight-Soft-soled-Sneakers-Breathable-Mesh-Lace-Up-Jogging-Shoes-Women-s-Footwear_43a7bd78-9d0b-4b62-a852-7e6f03a1921d.bec61d3a61d782f40452c83c9af80396.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
       ],
       color: 'Black/White',
       discountTagline: 'Fly Faster with 10% Off!',
@@ -1241,8 +1260,8 @@ class AppData {
       isBestSeller: true,
       onSale: false,
       image: [
-        'https://example.com/images/air_max_270_1.jpg',
-        'https://example.com/images/air_max_270_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvlioO3Hh5AjxV7vRCm9L7FW_hg5nDGQEBQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBpDpqwsGNCHtkccyUc1j04EUpDqTOtPYAQ&s"
       ],
       color: 'White/Red',
       discountTagline: '',
@@ -1292,8 +1311,8 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/zoomx_run3_1.jpg',
-        'https://example.com/images/zoomx_run3_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfU2yyPvmcPfB6raVi4NDi2sl4VzqKwphxA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEaHj__iTXoas4WYdCbYvF70koAe2ltmSWg&s",
       ],
       color: 'Blue/Green',
       discountTagline: '20% Off for Long Runs!',
@@ -1343,8 +1362,8 @@ class AppData {
       isBestSeller: true,
       onSale: false,
       image: [
-        'https://example.com/images/metcon_8_1.jpg',
-        'https://example.com/images/metcon_8_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJleKfUY65IdJADOsqE1OWaCHq24DuReoFjQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfQI1gb9YhMNKU2lQtne7DRVhzP79hqaAgQ&s"
       ],
       color: 'Black/Gold',
       discountTagline: '',
@@ -1394,8 +1413,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/dunk_low_retro_1.jpg',
-        'https://example.com/images/dunk_low_retro_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSckjJe-YO4jtOwxqShdyHgihVnJUVONszrtg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRq1Ridtd2oy7zxekPNXv-5prFyHBamjMAxw&s"
       ],
       color: 'White/Black',
       discountTagline: 'Save 15% on the Classics!',
@@ -1445,8 +1464,8 @@ class AppData {
       isBestSeller: false,
       onSale: true,
       image: [
-        'https://example.com/images/free_run_5_1.jpg',
-        'https://example.com/images/free_run_5_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXDCZC7MX7mkBAPalsBvByB3UhuTgB1CgfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_eWw3aGNCEty45SjxmjjRX0U7xKY4UfFbQ&s",
       ],
       color: 'Grey/Blue',
       discountTagline: 'Lightweight with 5% Off!',
@@ -1495,8 +1514,8 @@ class AppData {
       isBestSeller: false,
       onSale: false,
       image: [
-        'https://example.com/images/vapor_edge_1.jpg',
-        'https://example.com/images/vapor_edge_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZp_LEIQLll5QXsX6JI_lKY3KWEy9g0ZpKg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimhYHHW73G0w34vB8Bt8ECfDb8k3cdyGPVw&s"
       ],
       color: 'Red/Silver',
       discountTagline: '',
@@ -1545,8 +1564,8 @@ class AppData {
       isBestSeller: true,
       onSale: true,
       image: [
-        'https://example.com/images/air_max_90_1.jpg',
-        'https://example.com/images/air_max_90_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyhbPYcmgECCnu2xuH3P1N5lp2FnyNh1WxQ6SKS6_IOPBBRr9d4dO8AEJfoNDMj3tsJ4&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnLMoJboraVa2qU-g9146cQcow5jjx2UeVwdeAB_pa04mczbSjmiymZQmCyhmIJnZ8Jk&usqp=CAU"
       ],
       color: 'White/Infrared',
       discountTagline: 'Iconic Style, Now 10% Off!',
@@ -1596,8 +1615,9 @@ class AppData {
       isBestSeller: false,
       onSale: false,
       image: [
-        'https://example.com/images/phantom_gx_1.jpg',
-        'https://example.com/images/phantom_gx_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_EYzfLpLky7TlP7bjWB5u7GfiMZeyX1nqzg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopi25f79Pde27V-azTPhTUH2K0TW7VTO8gg&s",
+        // "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/312078/03/sv01/fnd/IND/fmt/png/Flex-Focus-Lite-Modern-Running-Shoes",
       ],
       color: 'Black/Volt',
       discountTagline: '',
@@ -1646,8 +1666,9 @@ class AppData {
       isBestSeller: false,
       onSale: false,
       image: [
-        'https://example.com/images/pegasus_turbo_1.jpg',
-        'https://example.com/images/pegasus_turbo_2.jpg'
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxuvsvosQhXacY0lyzaCSO4ihoHdiF8u4fIm0Ii4rADjXemlwCf27IdvJAOht9yBxMJQ&usqp=CAU"
+            "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F03%2Fnike-air-force-1-react-d-ms-x-CT1020-101-release-information-02.jpg?q=75&w=800&cbr=1&fit=max",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aQILfuWltidH2ujUUjjK5qkd6s7cpgJzInmAsj-4Rqlkdp3lDrajkdJtBoCFivxmFdA&usqp=CAU"
       ],
       color: 'Green/White',
       discountTagline: '',
@@ -1690,7 +1711,10 @@ class AppData {
       isFeatured: true,
       isBestSeller: false,
       onSale: false,
-      image: ['image1.jpg', 'image2.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZp_LEIQLll5QXsX6JI_lKY3KWEy9g0ZpKg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimhYHHW73G0w34vB8Bt8ECfDb8k3cdyGPVw&s"
+      ],
       color: 'White/Black',
       discountTagline: '',
       releaseDate: '2024-10-01',
@@ -1729,7 +1753,11 @@ class AppData {
       isFeatured: false,
       isBestSeller: true,
       onSale: false,
-      image: ['image3.jpg', 'image4.jpg'],
+      image: [
+        "https://www.shutterstock.com/image-photo/kent-uk-01012023-adidas-originals-600nw-2278627365.jpg",
+        "https://publish.purewow.net/wp-content/uploads/sites/2/2024/06/best-adidas-sneakers-adidas-Originals-Superstar-W.jpg?fit=680%2C400",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjN6tCWIwBWANbbeOZ8TQP_oTtFFY7ClhsPVjAJpBCJqe03dGVSZYdweGhm2OQV3zkuM&usqp=CAU"
+      ],
       color: 'Black/Gold',
       discountTagline: '',
       releaseDate: '2024-09-15',
@@ -1767,7 +1795,10 @@ class AppData {
       isFeatured: false,
       isBestSeller: false,
       onSale: false,
-      image: ['image5.jpg', 'image6.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvlioO3Hh5AjxV7vRCm9L7FW_hg5nDGQEBQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBpDpqwsGNCHtkccyUc1j04EUpDqTOtPYAQ&s"
+      ],
       color: 'Navy Blue',
       discountTagline: '',
       releaseDate: '2024-10-10',
@@ -1801,7 +1832,10 @@ class AppData {
       isFeatured: true,
       isBestSeller: true,
       onSale: false,
-      image: ['image7.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfU2yyPvmcPfB6raVi4NDi2sl4VzqKwphxA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEaHj__iTXoas4WYdCbYvF70koAe2ltmSWg&s",
+      ],
       color: 'Red/Black',
       discountTagline: '',
       releaseDate: '2024-05-20',
@@ -1830,7 +1864,11 @@ class AppData {
       isFeatured: false,
       isBestSeller: true,
       onSale: false,
-      image: ['image8.jpg', 'image9.jpg'],
+      image: [
+        "https://www.shutterstock.com/image-photo/kent-uk-01012023-adidas-originals-600nw-2278627365.jpg",
+        "https://publish.purewow.net/wp-content/uploads/sites/2/2024/06/best-adidas-sneakers-adidas-Originals-Superstar-W.jpg?fit=680%2C400",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjN6tCWIwBWANbbeOZ8TQP_oTtFFY7ClhsPVjAJpBCJqe03dGVSZYdweGhm2OQV3zkuM&usqp=CAU"
+      ],
       color: 'White/Gum',
       discountTagline: '',
       releaseDate: '2024-07-01',
@@ -1869,7 +1907,11 @@ class AppData {
       isFeatured: true,
       isBestSeller: false,
       onSale: false,
-      image: ['image10.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxuvsvosQhXacY0lyzaCSO4ihoHdiF8u4fIm0Ii4rADjXemlwCf27IdvJAOht9yBxMJQ&usqp=CAU",
+        "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F03%2Fnike-air-force-1-react-d-ms-x-CT1020-101-release-information-02.jpg?q=75&w=800&cbr=1&fit=max",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aQILfuWltidH2ujUUjjK5qkd6s7cpgJzInmAsj-4Rqlkdp3lDrajkdJtBoCFivxmFdA&usqp=CAU"
+      ],
       color: 'Black',
       discountTagline: '',
       releaseDate: '2024-06-12',
@@ -1898,7 +1940,10 @@ class AppData {
       isFeatured: false,
       isBestSeller: false,
       onSale: false,
-      image: ['image11.jpg', 'image12.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfU2yyPvmcPfB6raVi4NDi2sl4VzqKwphxA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEaHj__iTXoas4WYdCbYvF70koAe2ltmSWg&s",
+      ],
       color: 'Olive Green',
       discountTagline: '',
       releaseDate: '2024-08-10',
@@ -1932,7 +1977,10 @@ class AppData {
       isFeatured: true,
       isBestSeller: true,
       onSale: false,
-      image: ['image13.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJleKfUY65IdJADOsqE1OWaCHq24DuReoFjQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfQI1gb9YhMNKU2lQtne7DRVhzP79hqaAgQ&s"
+      ],
       color: 'White/Black',
       discountTagline: '',
       releaseDate: '2024-04-18',
@@ -1961,7 +2009,11 @@ class AppData {
       isFeatured: true,
       isBestSeller: false,
       onSale: false,
-      image: ['image14.jpg', 'image15.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPopL5feYkz7zlr-1rO3O-Gi4ugDyskKeGw&s",
+        "https://m.media-amazon.com/images/I/81M7O1DO-kL._UY1000_.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nIQBvQvIKAs_nwgLDaf2QzRUGciJXu5bxm9XbB8gzRSNw-vJ59dpxgHfpK5wc1s8ynM&usqp=CAU",
+      ],
       color: 'White/Navy',
       discountTagline: '',
       releaseDate: '2024-10-05',
@@ -1994,7 +2046,10 @@ class AppData {
       isFeatured: false,
       isBestSeller: true,
       onSale: false,
-      image: ['image16.jpg'],
+      image: [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXDCZC7MX7mkBAPalsBvByB3UhuTgB1CgfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_eWw3aGNCEty45SjxmjjRX0U7xKY4UfFbQ&s",
+      ],
       color: 'Neutral',
       discountTagline: '',
       releaseDate: '2024-02-14',
